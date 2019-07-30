@@ -1,0 +1,15 @@
+person:
+  name: zhangsan
+  age: 50
+  boss: false
+  birthday: 2017/10/01
+  map: {person1: JK,person2: Tom}
+  dog:
+    name: wangcai
+    sex: fale
+  list:
+    - xiaoming
+    - xiaohua
+    - xiaoye
+
+
