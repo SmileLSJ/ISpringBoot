@@ -1,5 +1,4 @@
 person:
-  name: zhangsan
   age: 50
   boss: false
   birthday: 2017/10/01
@@ -11,5 +10,8 @@ person:
     - xiaoming
     - xiaohua
     - xiaoye
+
+config:
+  index: 10
 
 

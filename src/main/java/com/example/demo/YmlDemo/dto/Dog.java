@@ -1,4 +1,4 @@
-package com.example.demo.com.example.demo.YmlDemo.dto;
+package com.example.demo.YmlDemo.dto;
 
 import lombok.Data;
 import lombok.ToString;

@@ -1,6 +1,6 @@
-package com.example.demo.com.example.demo.YmlDemo.config;
+package com.example.demo.config;
 
-import com.example.demo.com.example.demo.YmlDemo.dto.Dog;
+import com.example.demo.YmlDemo.dto.Dog;
 import lombok.Data;
 import lombok.ToString;
 import org.springframework.boot.context.properties.ConfigurationProperties;
